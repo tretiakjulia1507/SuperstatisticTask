@@ -1,0 +1,9 @@
+Your structure: 7.00000 2.00000 4.00000 5.00000 11.00000 
+Result of adding a double number: 9.00000 4.00000 6.00000 7.00000 13.00000 
+Result of adding a structure: 11.00000 7.00000 10.00000 12.00000 19.00000 
+Result of subtracting a structure: 6.00000 0.00000 1.00000 3.00000 10.00000 
+Result of multiplication: 35.00000 8.00000 12.00000 10.00000 11.00000 
+Result of dividing: 3.50000 0.50000 0.50000 1.#INF0 1.#INF0 
+Result of adding an array[3]: 8.00000 4.00000 7.00000 5.00000 11.00000 
+Result of adding an array[7]: 17.00000 12.00000 14.00000 15.00000 21.00000 
+Sorted array: 2.00000 4.00000 5.00000 7.00000 11.00000 
